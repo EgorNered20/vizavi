@@ -1,0 +1,169 @@
+/**
+ * @
+ * @
+ * @
+ * @
+ */
+body, .css-preloader {
+  background-color: #fff;
+  color: #252525;
+}
+.css-preloader > div {
+  background: #f68e13;
+}
+.css-preloader > div:after {
+  background: #fff;
+}
+#css-top-bar {
+  background: #333;
+  color: #aaa;
+}
+#css-top-bar a {
+  color: #aaa;
+}
+#css-header {
+  background: #fff;
+}
+a {
+  color: #f68e13;
+}
+a:hover, a:focus, a:active {
+  color: #044cd0;
+}
+.tags > li {
+  display: inline-block;
+}
+.tags > li a {
+  background: rgba(246, 142, 19, 0.1);
+  color: #f68e13;
+}
+.tags > li a:hover {
+  background: #044cd0;
+}
+.article-social-share .social-share-icon ul li a {
+  color: #252525;
+}
+.article-social-share .social-share-icon ul li a:hover, .article-social-share .social-share-icon ul li a:focus {
+  background: #f68e13;
+}
+.pager > li a {
+  border: 1px solid #ededed;
+  color: #252525;
+}
+.css-reading-progress-bar {
+  background-color: #f68e13;
+}
+.css-megamenu-parent > li > a {
+  color: #252525;
+}
+.css-megamenu-parent > li:hover > a {
+  color: #f68e13;
+}
+.css-megamenu-parent > li.active > a, .css-megamenu-parent > li.active:hover > a {
+  color: #f68e13;
+}
+.css-megamenu-parent .css-dropdown .css-dropdown-inner {
+  background: #fff;
+}
+.css-megamenu-parent .css-dropdown li.css-menu-item > a {
+  color: #252525;
+}
+.css-megamenu-parent .css-dropdown li.css-menu-item > a:hover {
+  color: #f68e13;
+}
+.css-megamenu-parent .css-dropdown li.css-menu-item.active > a {
+  color: #f68e13;
+}
+.css-megamenu-parent .css-mega-group > li > a {
+  color: #252525;
+}
+#offcanvas-toggler > .fa {
+  color: #252525;
+}
+#offcanvas-toggler > .fa:hover, #offcanvas-toggler > .fa:focus, #offcanvas-toggler > .fa:active {
+  color: #f68e13;
+}
+.offcanvas-menu {
+  background-color: #fff;
+  color: #252525;
+}
+.offcanvas-menu .offcanvas-inner .css-module ul > li a, .offcanvas-menu .offcanvas-inner .css-module ul > li span {
+  color: #252525;
+}
+.offcanvas-menu .offcanvas-inner .css-module ul > li a:hover, .offcanvas-menu .offcanvas-inner .css-module ul > li span:hover, .offcanvas-menu .offcanvas-inner .css-module ul > li a:focus, .offcanvas-menu .offcanvas-inner .css-module ul > li span:focus {
+  color: #f68e13;
+}
+.offcanvas-menu .offcanvas-inner .css-module ul > li.menu-parent > a > .menu-toggler, .offcanvas-menu .offcanvas-inner .css-module ul > li.menu-parent > .menu-separator > .menu-toggler {
+  color: rgba(37, 37, 37, 0.5);
+}
+.offcanvas-menu .offcanvas-inner .css-module ul > li ul li a {
+  color: rgba(37, 37, 37, 0.8);
+}
+.btn-primary, .visual-btn-primary {
+  border-color: #f68e13;
+  background-color: #f68e13;
+}
+.btn-primary:hover, .visual-btn-primary:hover {
+  border-color: #044cd0;
+  background-color: #044cd0;
+}
+ul.social-icons > li a:hover {
+  color: #f68e13;
+}
+.css-page-title {
+  background: #f68e13;
+}
+.layout-boxed .body-inwrap {
+  background: #fff;
+}
+.css-module ul > li > a {
+  color: #252525;
+}
+.css-module ul > li > a:hover {
+  color: #f68e13;
+}
+.css-module .latestnews > div > a {
+  color: #252525;
+}
+.css-module .latestnews > div > a:hover {
+  color: #f68e13;
+}
+.css-module .tagscloud .tag-name:hover {
+  background: #f68e13;
+}
+.search .btn-toolbar button {
+  background: #f68e13;
+}
+#css-footer, #css-bottom {
+  background: #171717;
+  color: #fff;
+}
+#css-footer a, #css-bottom a {
+  color: #a2a2a2;
+}
+#css-footer a:hover, #css-bottom a:hover, #css-footer a:active, #css-bottom a:active, #css-footer a:focus, #css-bottom a:focus {
+  color: #fff;
+}
+#css-bottom .css-module-content .latestnews > li > a > span {
+  color: #fff;
+}
+.css-comingsoon body {
+  background-color: #f68e13;
+}
+.pagination > li > a, .pagination > li > span {
+  color: #252525;
+}
+.pagination > li > a:hover, .pagination > li > span:hover, .pagination > li > a:focus, .pagination > li > span:focus {
+  color: #252525;
+}
+.pagination > .active > a, .pagination > .active > span {
+  border-color: #f68e13;
+  background-color: #f68e13;
+}
+.pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus {
+  border-color: #f68e13;
+  background-color: #f68e13;
+}
+.error-code, .coming-soon-number {
+  color: #f68e13;
+}

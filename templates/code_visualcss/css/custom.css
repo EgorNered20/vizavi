@@ -1,0 +1,67 @@
+.offcanvas-menu .offcanvas-inner .css-module ul > li.menu-parent > a > .menu-toggler:after, .offcanvas-menu .offcanvas-inner .css-module ul > li.menu-parent > .menu-separator > .menu-toggler:after {
+font-size: x-large;
+}
+
+.offcanvas-menu .offcanvas-inner .css-module ul > li a, .offcanvas-menu .offcanvas-inner .css-module ul > li span
+{
+padding: 0.425rem 0;
+}
+
+.levi {
+  -webkit-animation: levitation 1s ease-in-out infinite;
+          animation: levitation 1s ease-in-out infinite;    
+}
+
+.levit {
+  -webkit-animation: levitation 2s ease-in-out infinite;
+          animation: levitation 2s ease-in-out infinite;  
+}
+
+.levita {
+  -webkit-animation: levitation 3s ease-in-out infinite;
+          animation: levitation 3s ease-in-out infinite;  
+}
+
+.levitat {
+  -webkit-animation: levitation 4s ease-in-out infinite;
+          animation: levitation 4s ease-in-out infinite;  
+}
+
+.levitati {
+  -webkit-animation: levitation 5s ease-in-out infinite;
+          animation: levitation 5s ease-in-out infinite;  
+}
+
+.levitatio {
+  -webkit-animation: levitation 6s ease-in-out infinite;
+          animation: levitation 6s ease-in-out infinite;  
+}
+
+.levitation {
+  -webkit-animation: levitation 7s ease-in-out infinite;
+          animation: levitation 7s ease-in-out infinite;  
+}
+
+@-webkit-keyframes levitation {
+  0%,
+  100% {
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+  }
+  50% {
+    -webkit-transform: translateY(-25px);
+            transform: translateY(-25px);
+  }
+}
+
+@keyframes levitation {
+  0%,
+  100% {
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+  }
+  50% {
+    -webkit-transform: translateY(-25px);
+            transform: translateY(-25px);
+  }
+}

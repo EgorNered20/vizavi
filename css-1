@@ -1,0 +1,84 @@
+﻿@font-face {
+  font-family: 'Montserrat Alternates';
+  font-style: italic;
+  font-weight: 100;
+  font-display: swap;
+  src: url(s/montserratalternates/v17/mFTjWacfw6zH4dthXcyms1lPpC8I_b0juU057p-xEJZj0g.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat Alternates';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(s/montserratalternates/v17/mFTkWacfw6zH4dthXcyms1lPpC8I_b0juU057p95AoxJ8mE.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat Alternates';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/montserratalternates/v17/mFThWacfw6zH4dthXcyms1lPpC8I_b0juU057pffIJw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat Alternates';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/montserratalternates/v17/mFTkWacfw6zH4dthXcyms1lPpC8I_b0juU057p8hA4xJ8mE.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat Alternates';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/montserratalternates/v17/mFTkWacfw6zH4dthXcyms1lPpC8I_b0juU057p9pBYxJ8mE.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat Alternates';
+  font-style: italic;
+  font-weight: 900;
+  font-display: swap;
+  src: url(s/montserratalternates/v17/mFTkWacfw6zH4dthXcyms1lPpC8I_b0juU057p9RB4xJ8mE.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat Alternates';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(s/montserratalternates/v17/mFThWacfw6zH4dthXcyms1lPpC8I_b0juU0xiJffIJw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat Alternates';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(s/montserratalternates/v17/mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xQIXFCrxD.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat Alternates';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/montserratalternates/v17/mFTvWacfw6zH4dthXcyms1lPpC8I_b0juU055qfV.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat Alternates';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/montserratalternates/v17/mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xGITFCrxD.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat Alternates';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/montserratalternates/v17/mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xUILFCrxD.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat Alternates';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(s/montserratalternates/v17/mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xaIDFCrxD.ttf) format('truetype');
+}

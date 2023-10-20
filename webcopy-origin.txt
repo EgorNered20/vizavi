@@ -1,0 +1,1016 @@
+Uri: https://centrvizavi.ru/
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\index.htm
+Content Type: text/html
+
+Uri: https://centrvizavi.ru/about/confident
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\about\confident.html
+Content Type: text/html
+
+Uri: https://centrvizavi.ru/about/lechenie-po-dms
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\about\lechenie-po-dms.html
+Content Type: text/html
+
+Uri: https://centrvizavi.ru/about/legal-information
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\about\legal-information.html
+Content Type: text/html
+
+Uri: https://centrvizavi.ru/about/vakansii
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\about\vakansii.html
+Content Type: text/html
+
+Uri: https://centrvizavi.ru/component/visual/?view=page&id=32
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\component\visual\index.htm
+Content Type: text/html
+
+Uri: https://centrvizavi.ru/component/visual/?view=page&id=43
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\component\visual\index-1.htm
+Content Type: text/html
+
+Uri: https://centrvizavi.ru/components/com_visual/assets/css/animate.min.css
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\components\com_visual\assets\css\animate.min.css
+Content Type: text/css
+
+Uri: https://centrvizavi.ru/components/com_visual/assets/css/font-awesome-5.min.css
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\components\com_visual\assets\css\font-awesome-5.min.css
+Content Type: text/css
+
+Uri: https://centrvizavi.ru/components/com_visual/assets/css/font-awesome-v4-shims.css
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\components\com_visual\assets\css\font-awesome-v4-shims.css
+Content Type: text/css
+
+Uri: https://centrvizavi.ru/components/com_visual/assets/css/leaflet.css
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\components\com_visual\assets\css\leaflet.css
+Content Type: text/css
+
+Uri: https://centrvizavi.ru/components/com_visual/assets/css/magnific-popup.css
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\components\com_visual\assets\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://centrvizavi.ru/components/com_visual/assets/css/visual-container.css
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\components\com_visual\assets\css\visual-container.css
+Content Type: text/css
+
+Uri: https://centrvizavi.ru/components/com_visual/assets/css/visual.css
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\components\com_visual\assets\css\visual.css
+Content Type: text/css
+
+Uri: https://centrvizavi.ru/components/com_visual/assets/images/layers-2x.png
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\components\com_visual\assets\images\layers-2x.png
+Content Type: image/png
+
+Uri: https://centrvizavi.ru/components/com_visual/assets/images/layers.png
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\components\com_visual\assets\images\layers.png
+Content Type: image/png
+
+Uri: https://centrvizavi.ru/components/com_visual/assets/images/marker-icon.png
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\components\com_visual\assets\images\marker-icon.png
+Content Type: image/png
+
+Uri: https://centrvizavi.ru/components/com_visual/assets/js/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\components\com_visual\assets\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://centrvizavi.ru/components/com_visual/assets/js/jquery.parallax.js
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\components\com_visual\assets\js\jquery.parallax.js
+Content Type: application/javascript
+
+Uri: https://centrvizavi.ru/components/com_visual/assets/js/leaflet.js
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\components\com_visual\assets\js\leaflet.js
+Content Type: application/javascript
+
+Uri: https://centrvizavi.ru/components/com_visual/assets/js/leaflet.provider.js
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\components\com_visual\assets\js\leaflet.provider.js
+Content Type: application/javascript
+
+Uri: https://centrvizavi.ru/components/com_visual/assets/js/visual.js
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\components\com_visual\assets\js\visual.js
+Content Type: application/javascript
+
+Uri: https://centrvizavi.ru/components/com_visual/assets/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\components\com_visual\assets\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://centrvizavi.ru/components/com_visual/assets/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\components\com_visual\assets\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://centrvizavi.ru/components/com_visual/assets/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\components\com_visual\assets\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://centrvizavi.ru/components/com_visual/assets/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\components\com_visual\assets\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://centrvizavi.ru/components/com_visual/assets/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\components\com_visual\assets\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://centrvizavi.ru/components/com_visual/assets/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\components\com_visual\assets\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://centrvizavi.ru/contacts
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\contacts.html
+Content Type: text/html
+
+Uri: https://centrvizavi.ru/css/cocoen.min.css
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\css (1)\cocoen.min.css
+Content Type: text/css
+
+Uri: https://centrvizavi.ru/doctors
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\doctors.html
+Content Type: text/html
+
+Uri: https://centrvizavi.ru/doctors/work-schedule
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\doctors\work-schedule.html
+Content Type: text/html
+
+Uri: https://centrvizavi.ru/doctors/works
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\doctors\works.html
+Content Type: text/html
+
+Uri: https://centrvizavi.ru/images/2020/11/19/sl1a.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2020\11\19\sl1a.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/images/2020/11/20/007.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2020\11\20\007.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/images/2020/11/20/sl2.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2020\11\20\sl2.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/images/2020/11/22/ines21.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2020\11\22\ines21.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/images/2020/11/22/sl3.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2020\11\22\sl3.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/images/2020/11/26/kark.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2020\11\26\kark.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/images/2020/11/26/karkan.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2020\11\26\karkan.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/images/2020/11/26/lic_page1.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2020\11\26\lic_page1.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/images/2020/11/26/lic_page2.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2020\11\26\lic_page2.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/images/2020/11/26/lic_page3.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2020\11\26\lic_page3.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/images/2020/11/26/lic_page4.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2020\11\26\lic_page4.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/images/2020/11/26/masl.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2020\11\26\masl.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/images/2020/11/26/matveeva.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2020\11\26\matveeva.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/images/2020/11/26/shneider.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2020\11\26\shneider.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/images/2020/11/26/sve.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2020\11\26\sve.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/images/2020/11/26/tuman.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2020\11\26\tuman.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/images/2020/12/03/111.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2020\12\03\111.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/images/2020/12/03/12.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2020\12\03\12.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/images/2020/12/03/2.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2020\12\03\2.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/images/2020/12/03/dsc_5457-2.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2020\12\03\dsc_5457-2.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/images/2020/12/03/dsc_5488.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2020\12\03\dsc_5488.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/images/2020/12/03/dsc_5522.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2020\12\03\dsc_5522.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/images/2020/12/03/dsc_5716.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2020\12\03\dsc_5716.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/images/2020/12/03/dsc_57952.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2020\12\03\dsc_57952.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/images/2020/12/03/dsc_5848.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2020\12\03\dsc_5848.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/images/2020/12/03/dsc_5896.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2020\12\03\dsc_5896.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/images/2020/12/03/dsc_5956.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2020\12\03\dsc_5956.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/images/2020/12/03/dsc_6078.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2020\12\03\dsc_6078.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/images/2020/12/03/dsc_6189.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2020\12\03\dsc_6189.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/images/2020/12/08/fon.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2020\12\08\fon.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/images/2020/12/21/1212121.png
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2020\12\21\1212121.png
+Content Type: image/png
+
+Uri: https://centrvizavi.ru/images/2021/02/01/elenavik.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2021\02\01\elenavik.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/images/2021/02/01/shustov.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2021\02\01\shustov.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/images/2021/02/04/zaglushka_spec.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2021\02\04\zaglushka_spec.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/images/2021/06/25/--6.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2021\06\25\--6.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/images/2021/06/25/--7.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2021\06\25\--7.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/images/2021/06/25/favicon.png
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2021\06\25\favicon.png
+Content Type: image/png
+
+Uri: https://centrvizavi.ru/images/2021/06/25/favicon1.png
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2021\06\25\favicon1.png
+Content Type: image/png
+
+Uri: https://centrvizavi.ru/images/2021/06/25/original-1.png
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2021\06\25\original-1.png
+Content Type: image/png
+
+Uri: https://centrvizavi.ru/images/2021/06/25/original-11.png
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2021\06\25\original-11.png
+Content Type: image/png
+
+Uri: https://centrvizavi.ru/images/2021/06/25/original-12.png
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2021\06\25\original-12.png
+Content Type: image/png
+
+Uri: https://centrvizavi.ru/images/2021/06/25/original-13.png
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2021\06\25\original-13.png
+Content Type: image/png
+
+Uri: https://centrvizavi.ru/images/2021/07/21/-----.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2021\07\21\-----.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/images/2021/07/21/----.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2021\07\21\----.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/images/2021/07/21/--31.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2021\07\21\--31.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/images/2021/07/21/1-.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2021\07\21\1-.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/images/2021/07/21/2---.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2021\07\21\2---.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/images/2021/07/21/3.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2021\07\21\3.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/images/2021/07/21/41.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2021\07\21\41.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/images/2022/02/08/20211111_132134.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2022\02\08\20211111_132134.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/images/2022/07/27/6625f9501dd7d361c746d92c66e71fa81ae7f5b8_49322a1829b43d998c356dd6f50ec3bf_1585923351031.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2022\07\27\6625f9501dd7d361c746d92c66e71fa81ae7f5b8_49322a1829b43d998c356dd6f50ec3bf_1585923351031.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/images/2022/07/28/f-complex.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2022\07\28\f-complex.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/images/2022/07/28/f-complex1.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2022\07\28\f-complex1.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/images/2022/11/28/--31.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2022\11\28\--31.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/images/2022/12/20/-1.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2022\12\20\-1.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/images/2022/12/20/-12.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2022\12\20\-12.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/images/2023/01/19/favicon1.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\2023\01\19\favicon1.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/images/cocolo.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\cocolo.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/images/favi.png
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\favi.png
+Content Type: image/png
+
+Uri: https://centrvizavi.ru/images/preloader2.gif
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\images\preloader2.gif
+Content Type: image/gif
+
+Uri: https://centrvizavi.ru/js/cocoen.min.js
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\js\cocoen.min.js
+Content Type: application/javascript
+
+Uri: https://centrvizavi.ru/media/attachments/2021/11/15/----..doc
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\attachments\2021\11\15\----..doc
+Content Type: application/msword
+
+Uri: https://centrvizavi.ru/media/attachments/2022/02/28/tab-1_organized-1.pdf
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\attachments\2022\02\28\tab-1_organized-1.pdf
+Content Type: application/pdf
+
+Uri: https://centrvizavi.ru/media/attachments/2022/11/17/vipiska.pdf
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\attachments\2022\11\17\vipiska.pdf
+Content Type: application/pdf
+
+Uri: https://centrvizavi.ru/media/attachments/2023/01/19/________covid_19_-1.pdf
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\attachments\2023\01\19\________covid_19_-1.pdf
+Content Type: application/pdf
+
+Uri: https://centrvizavi.ru/media/attachments/2023/02/05/0731.pdf
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\attachments\2023\02\05\0731.pdf
+Content Type: application/pdf
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/1-.png
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\1-.png
+Content Type: image/png
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/121.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\121.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/1212121.png
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\1212121.png
+Content Type: image/png
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/2.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\2.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/211212.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\211212.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/222.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\222.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/333.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\333.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/44.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\44.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/5555555555.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\5555555555.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/bc21.png
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\bc21.png
+Content Type: image/png
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/bc22.png
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\bc22.png
+Content Type: image/png
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/city2.png
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\city2.png
+Content Type: image/png
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/cocolo.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\cocolo.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/cocolo.png
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\cocolo.png
+Content Type: image/png
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/coto1.png
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\coto1.png
+Content Type: image/png
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/coto2.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\coto2.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/coto3.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\coto3.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/coto31.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\coto31.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/dir1.png
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\dir1.png
+Content Type: image/png
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/dotter.png
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\dotter.png
+Content Type: image/png
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/dotter2.png
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\dotter2.png
+Content Type: image/png
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/dotter3.png
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\dotter3.png
+Content Type: image/png
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/dsc_54421.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\dsc_54421.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/dsc_5457-2.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\dsc_5457-2.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/dsc_5716.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\dsc_5716.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/dsc_57952.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\dsc_57952.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/dsc_5848.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\dsc_5848.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/dsc_5896.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\dsc_5896.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/dsc_6078.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\dsc_6078.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/dsc_6189.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\dsc_6189.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/fgjwire.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\fgjwire.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/fsdfjs.png
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\fsdfjs.png
+Content Type: image/png
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/geot.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\geot.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/ico1-1.png
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\ico1-1.png
+Content Type: image/png
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/ico1-2.png
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\ico1-2.png
+Content Type: image/png
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/ico1-3.png
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\ico1-3.png
+Content Type: image/png
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/ico1-4.png
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\ico1-4.png
+Content Type: image/png
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/ico1-5.png
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\ico1-5.png
+Content Type: image/png
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/ico1-6.png
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\ico1-6.png
+Content Type: image/png
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/ico11.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\ico11.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/ico2.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\ico2.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/ico4.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\ico4.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/ico5.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\ico5.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/ico61.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\ico61.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/ico8.png
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\ico8.png
+Content Type: image/png
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/ico9.png
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\ico9.png
+Content Type: image/png
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/kreslo1.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\kreslo1.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/kruglyshkit.png
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\kruglyshkit.png
+Content Type: image/png
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/mir-visa-madster1.png
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\mir-visa-madster1.png
+Content Type: image/png
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/otbelivanie-zubov-vred-ili-polza.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\otbelivanie-zubov-vred-ili-polza.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/pa1.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\pa1.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/pa2.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\pa2.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/pa3.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\pa3.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/pa4.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\pa4.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/pa5.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\pa5.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/pa7.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\pa7.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/photo_2021-02-05_16-32-33.png
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\photo_2021-02-05_16-32-33.png
+Content Type: image/png
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/ppl.png
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\ppl.png
+Content Type: image/png
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/s.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\s.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/scandal.png
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\scandal.png
+Content Type: image/png
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/screenshot_10.png
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\screenshot_10.png
+Content Type: image/png
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/screenshot_11.png
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\screenshot_11.png
+Content Type: image/png
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/screenshot_12.png
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\screenshot_12.png
+Content Type: image/png
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/screenshot_13.png
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\screenshot_13.png
+Content Type: image/png
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/screenshot_14.png
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\screenshot_14.png
+Content Type: image/png
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/screenshot_15.png
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\screenshot_15.png
+Content Type: image/png
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/screenshot_16.png
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\screenshot_16.png
+Content Type: image/png
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/screenshot_17.png
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\screenshot_17.png
+Content Type: image/png
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/screenshot_18.png
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\screenshot_18.png
+Content Type: image/png
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/screenshot_19.png
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\screenshot_19.png
+Content Type: image/png
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/screenshot_20.png
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\screenshot_20.png
+Content Type: image/png
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/screenshot_21.png
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\screenshot_21.png
+Content Type: image/png
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/screenshot_4.png
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\screenshot_4.png
+Content Type: image/png
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/screenshot_5.png
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\screenshot_5.png
+Content Type: image/png
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/screenshot_7.png
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\screenshot_7.png
+Content Type: image/png
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/screenshot_8.png
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\screenshot_8.png
+Content Type: image/png
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/screenshot_9.png
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\screenshot_9.png
+Content Type: image/png
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/sedfw3er32rvice.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\sedfw3er32rvice.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/serv423ifsdce.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\serv423ifsdce.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/servfdsfds3ice.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\servfdsfds3ice.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/servic1fsdfdse.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\servic1fsdfdse.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/servic4e.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\servic4e.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/servic4e3.png
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\servic4e3.png
+Content Type: image/png
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/servicfsdfdse.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\servicfsdfdse.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/servifewce.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\servifewce.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/servifsdce.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\servifsdce.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/vcs.png
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\vcs.png
+Content Type: image/png
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/viveska.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\viveska.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/media/com_visual/placeholder/viveska3.jpg
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\com_visual\placeholder\viveska3.jpg
+Content Type: image/jpeg
+
+Uri: https://centrvizavi.ru/media/jui/js/jquery-migrate.min.js?daea8a9e572244633698889b20e63c23
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\jui\js\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://centrvizavi.ru/media/jui/js/jquery-noconflict.js?daea8a9e572244633698889b20e63c23
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\jui\js\jquery-noconflict.js
+Content Type: application/javascript
+
+Uri: https://centrvizavi.ru/media/jui/js/jquery.min.js?daea8a9e572244633698889b20e63c23
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\jui\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://centrvizavi.ru/media/mod_simplecallback/css/simplecallback.css
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\mod_simplecallback\css\simplecallback.css
+Content Type: text/css
+
+Uri: https://centrvizavi.ru/media/mod_simplecallback/css/sweetalert.css
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\mod_simplecallback\css\sweetalert.css
+Content Type: text/css
+
+Uri: https://centrvizavi.ru/media/mod_simplecallback/js/simplecallback.js
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\mod_simplecallback\js\simplecallback.js
+Content Type: application/javascript
+
+Uri: https://centrvizavi.ru/media/mod_simplecallback/js/sweetalert.min.js
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\mod_simplecallback\js\sweetalert.min.js
+Content Type: application/javascript
+
+Uri: https://centrvizavi.ru/media/system/js/core.js?daea8a9e572244633698889b20e63c23
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\system\js\core.js
+Content Type: application/javascript
+
+Uri: https://centrvizavi.ru/media/system/js/mootools-core.js?daea8a9e572244633698889b20e63c23
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\system\js\mootools-core.js
+Content Type: application/javascript
+
+Uri: https://centrvizavi.ru/media/system/js/punycode.js?daea8a9e572244633698889b20e63c23
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\system\js\punycode.js
+Content Type: application/javascript
+
+Uri: https://centrvizavi.ru/media/system/js/validate.js?daea8a9e572244633698889b20e63c23
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\media\system\js\validate.js
+Content Type: application/javascript
+
+Uri: https://centrvizavi.ru/review
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\review.html
+Content Type: text/html
+
+Uri: https://centrvizavi.ru/templates/code_visualcss/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\templates\code_visualcss\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://centrvizavi.ru/templates/code_visualcss/css/custom.css
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\templates\code_visualcss\css\custom.css
+Content Type: text/css
+
+Uri: https://centrvizavi.ru/templates/code_visualcss/css/fa-v4-shims.css
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\templates\code_visualcss\css\fa-v4-shims.css
+Content Type: text/css
+
+Uri: https://centrvizavi.ru/templates/code_visualcss/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\templates\code_visualcss\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://centrvizavi.ru/templates/code_visualcss/css/presets/preset6.css
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\templates\code_visualcss\css\presets\preset6.css
+Content Type: text/css
+
+Uri: https://centrvizavi.ru/templates/code_visualcss/css/template.css
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\templates\code_visualcss\css\template.css
+Content Type: text/css
+
+Uri: https://centrvizavi.ru/templates/code_visualcss/fonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\templates\code_visualcss\fonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://centrvizavi.ru/templates/code_visualcss/fonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\templates\code_visualcss\fonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://centrvizavi.ru/templates/code_visualcss/fonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\templates\code_visualcss\fonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://centrvizavi.ru/templates/code_visualcss/fonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\templates\code_visualcss\fonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://centrvizavi.ru/templates/code_visualcss/fonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\templates\code_visualcss\fonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://centrvizavi.ru/templates/code_visualcss/fonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\templates\code_visualcss\fonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://centrvizavi.ru/templates/code_visualcss/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\templates\code_visualcss\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://centrvizavi.ru/templates/code_visualcss/js/main.js
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\templates\code_visualcss\js\main.js
+Content Type: application/javascript
+
+Uri: https://centrvizavi.ru/templates/code_visualcss/js/popper.min.js
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\templates\code_visualcss\js\popper.min.js
+Content Type: application/javascript
+
+Uri: https://centrvizavi.ru/uslugi
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\uslugi.html
+Content Type: text/html
+
+Uri: https://centrvizavi.ru/uslugi/cons
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\uslugi\cons.html
+Content Type: text/html
+
+Uri: https://centrvizavi.ru/uslugi/gigiena
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\uslugi\gigiena.html
+Content Type: text/html
+
+Uri: https://centrvizavi.ru/uslugi/hirurgia/operation
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\uslugi\hirurgia\operation.html
+Content Type: text/html
+
+Uri: https://centrvizavi.ru/uslugi/hirurgia/tooth-del
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\uslugi\hirurgia\tooth-del.html
+Content Type: text/html
+
+Uri: https://centrvizavi.ru/uslugi/implant
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\uslugi\implant.html
+Content Type: text/html
+
+Uri: https://centrvizavi.ru/uslugi/kids
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\uslugi\kids.html
+Content Type: text/html
+
+Uri: https://centrvizavi.ru/uslugi/lechenie-v-rassrochku
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\uslugi\lechenie-v-rassrochku.html
+Content Type: text/html
+
+Uri: https://centrvizavi.ru/uslugi/ortodont/braces-treat
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\uslugi\ortodont\braces-treat.html
+Content Type: text/html
+
+Uri: https://centrvizavi.ru/uslugi/ortodont/orto-app
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\uslugi\ortodont\orto-app.html
+Content Type: text/html
+
+Uri: https://centrvizavi.ru/uslugi/ortodont/orto-dentist
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\uslugi\ortodont\orto-dentist.html
+Content Type: text/html
+
+Uri: https://centrvizavi.ru/uslugi/ortodont/orto-structures
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\uslugi\ortodont\orto-structures.html
+Content Type: text/html
+
+Uri: https://centrvizavi.ru/uslugi/otbelivanie
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\uslugi\otbelivanie.html
+Content Type: text/html
+
+Uri: https://centrvizavi.ru/uslugi/protez/allinfour
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\uslugi\protez\allinfour.html
+Content Type: text/html
+
+Uri: https://centrvizavi.ru/uslugi/protez/portableprotez
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\uslugi\protez\portableprotez.html
+Content Type: text/html
+
+Uri: https://centrvizavi.ru/uslugi/protez/staticprotez
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\uslugi\protez\staticprotez.html
+Content Type: text/html
+
+Uri: https://centrvizavi.ru/uslugi/rentgenodiagnostika
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\uslugi\rentgenodiagnostika.html
+Content Type: text/html
+
+Uri: https://centrvizavi.ru/uslugi/therapy/caries
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\uslugi\therapy\caries.html
+Content Type: text/html
+
+Uri: https://centrvizavi.ru/uslugi/therapy/kanaly
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\uslugi\therapy\kanaly.html
+Content Type: text/html
+
+Uri: https://cl1.su/public/js/widget.js
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\public\js\widget.js
+Content Type: application/javascript
+
+Uri: https://code-ya.jivosite.com/widget/rpVbaNIZdm
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\widget\rpVbaNIZdm
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat+Alternates:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap&subset=cyrillic-ext
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Prata:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap&subset=cyrillic-ext
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Prata:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserratalternates/v17/mFThWacfw6zH4dthXcyms1lPpC8I_b0juU057pffIJw.ttf
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\s\montserratalternates\v17\mFThWacfw6zH4dthXcyms1lPpC8I_b0juU057pffIJw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserratalternates/v17/mFThWacfw6zH4dthXcyms1lPpC8I_b0juU0xiJffIJw.ttf
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\s\montserratalternates\v17\mFThWacfw6zH4dthXcyms1lPpC8I_b0juU0xiJffIJw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserratalternates/v17/mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xaIDFCrxD.ttf
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\s\montserratalternates\v17\mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xaIDFCrxD.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserratalternates/v17/mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xGITFCrxD.ttf
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\s\montserratalternates\v17\mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xGITFCrxD.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserratalternates/v17/mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xQIXFCrxD.ttf
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\s\montserratalternates\v17\mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xQIXFCrxD.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserratalternates/v17/mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xUILFCrxD.ttf
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\s\montserratalternates\v17\mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xUILFCrxD.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserratalternates/v17/mFTjWacfw6zH4dthXcyms1lPpC8I_b0juU057p-xEJZj0g.ttf
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\s\montserratalternates\v17\mFTjWacfw6zH4dthXcyms1lPpC8I_b0juU057p-xEJZj0g.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserratalternates/v17/mFTkWacfw6zH4dthXcyms1lPpC8I_b0juU057p8hA4xJ8mE.ttf
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\s\montserratalternates\v17\mFTkWacfw6zH4dthXcyms1lPpC8I_b0juU057p8hA4xJ8mE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserratalternates/v17/mFTkWacfw6zH4dthXcyms1lPpC8I_b0juU057p95AoxJ8mE.ttf
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\s\montserratalternates\v17\mFTkWacfw6zH4dthXcyms1lPpC8I_b0juU057p95AoxJ8mE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserratalternates/v17/mFTkWacfw6zH4dthXcyms1lPpC8I_b0juU057p9pBYxJ8mE.ttf
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\s\montserratalternates\v17\mFTkWacfw6zH4dthXcyms1lPpC8I_b0juU057p9pBYxJ8mE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserratalternates/v17/mFTkWacfw6zH4dthXcyms1lPpC8I_b0juU057p9RB4xJ8mE.ttf
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\s\montserratalternates\v17\mFTkWacfw6zH4dthXcyms1lPpC8I_b0juU057p9RB4xJ8mE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserratalternates/v17/mFTvWacfw6zH4dthXcyms1lPpC8I_b0juU055qfV.ttf
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\s\montserratalternates\v17\mFTvWacfw6zH4dthXcyms1lPpC8I_b0juU055qfV.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/prata/v20/6xKhdSpbNNCT-sWCCms.ttf
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\s\prata\v20\6xKhdSpbNNCT-sWCCms.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/prata/v20/6xKhdSpbNNCT-sWPCms.ttf
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\s\prata\v20\6xKhdSpbNNCT-sWPCms.ttf
+Content Type: font/ttf
+
+Uri: https://mc.yandex.ru/watch/83264632
+File Name: C:\Downloaded Web Sites\site\centrvizavi.ru\watch\83264632
+Content Type: image/gif
+
